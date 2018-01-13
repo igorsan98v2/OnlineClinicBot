@@ -1,0 +1,10 @@
+/home/igor/Documents/TCSP/TgBot/obj/Debug/netcoreapp2.0/TgBot.csproj.CoreCompileInputs.cache
+/home/igor/Documents/TCSP/TgBot/obj/Debug/netcoreapp2.0/TgBot.AssemblyInfoInputs.cache
+/home/igor/Documents/TCSP/TgBot/obj/Debug/netcoreapp2.0/TgBot.AssemblyInfo.cs
+/home/igor/Documents/TCSP/TgBot/bin/Debug/netcoreapp2.0/TgBot.deps.json
+/home/igor/Documents/TCSP/TgBot/bin/Debug/netcoreapp2.0/TgBot.runtimeconfig.json
+/home/igor/Documents/TCSP/TgBot/bin/Debug/netcoreapp2.0/TgBot.runtimeconfig.dev.json
+/home/igor/Documents/TCSP/TgBot/bin/Debug/netcoreapp2.0/TgBot.dll
+/home/igor/Documents/TCSP/TgBot/bin/Debug/netcoreapp2.0/TgBot.pdb
+/home/igor/Documents/TCSP/TgBot/obj/Debug/netcoreapp2.0/TgBot.dll
+/home/igor/Documents/TCSP/TgBot/obj/Debug/netcoreapp2.0/TgBot.pdb
