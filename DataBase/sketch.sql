@@ -29,14 +29,6 @@ special TEXT
 
 --создание таблицы с именем books
  
-CREATE TABLE books 
-(
-id_books INTEGER PRIMARY KEY AUTOINCREMENT,
-auth_name TEXT NOT NULL,
-title TEXT NOT NULL,
-count_page INTEGER NOT NULL,
-price REAL NOT NULL
-);
- 
+
 -- Запрос на добавление данных в таблицу
  
